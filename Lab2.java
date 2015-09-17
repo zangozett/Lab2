@@ -50,7 +50,8 @@ public class Lab2 {
 	// the number going to St. Ives (stored in the _total_ variable).
 	// Add a statement or statements that will do this.
 
-	System.out.println("And so the number going to St. Ives was" + total + "in all.");
+	System.out.println(" ");
+	System.out.println("And so the number going to St. Ives was " + total + " in all.");
 	
     }
     
