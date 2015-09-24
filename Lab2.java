@@ -1,5 +1,7 @@
 public class Lab2 {
     
+    // Alex Bright
+    
     public static void main(String[] args) {
 
 	System.out.println("As I was going to St. Ives");
